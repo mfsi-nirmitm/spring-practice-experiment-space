@@ -4,3 +4,4 @@
 Servers/
 .recommenders/
 *.class
+*.jar
