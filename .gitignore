@@ -5,3 +5,4 @@ Servers/
 .recommenders/
 *.class
 *.jar
+.DS_Store
